@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceExample</string>
+    <string name="str_timer">%s</string>
+</resources>
